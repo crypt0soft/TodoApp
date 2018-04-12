@@ -22,3 +22,6 @@ platforms/android/CordovaLib/local.properties
 
 # res
 resources/signing
+
+# nodeJs
+node_modules
